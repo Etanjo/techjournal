@@ -23,6 +23,20 @@
 
 ### Kali Linux
   1. Go to Kali VM and press start
+  2. Log In
+  3. Install WireShark (https://www.kali.org/tools/wireshark/)
+  4. Open Wireshark
+  5. click on eth0
+     <img width="821" height="610" alt="{06448E1C-CD22-42C3-A996-5F871E9BDEE2}" src="https://github.com/user-attachments/assets/8117a712-f80c-43ff-a670-a428aa0a629b" />
+
+  6. Click on blue shark fin
+
+     <img width="757" height="35" alt="{52096F1A-DEE3-4F5E-B443-F5F49DC4A764}" src="https://github.com/user-attachments/assets/4fd236dd-1415-4898-8d8b-27ead9791f98" />
+
+     Result: <img width="887" height="620" alt="{B61D43D4-6618-4089-8ECC-3191EAB1A07E}" src="https://github.com/user-attachments/assets/c498b660-f18a-41cf-8a52-70fe7d97d669" />
+
+
+
 
 
 
