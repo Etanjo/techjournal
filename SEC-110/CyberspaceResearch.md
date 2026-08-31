@@ -20,5 +20,5 @@
 - University College London and Norway's Royal Radar Establishment joined as the first international connections to Arpanet in 1973
 - In the mid-70s and early 80s, the department of defense had started to become weary of the extent of Arpanet, and closed themselves off from the network making the private sector the lead developer of this system.
 - In 1988, Robert Tappan Morris developed a program (Morris Worm) to try and see how many computers were attached to Arpanet. This was an invasive program that shut down around 10% of Arpanet at the time. They hit him with 400 hrs of community service and a 10.4 thousand dollar fine.
-- 
-- 
+- In 1990, Arpnet closes down after CompuServer released the first dial-up internet service, being the foundation for widespread internet usage
+- In 1991, Tim Berners-Lee developed the tech behind HTML, URLs and HTTP, which are hugely important parts of the web. His idea was to make sure that the internet could be used to find information instead of just sending files between computers.
