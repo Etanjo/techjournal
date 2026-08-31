@@ -1,1 +1,4 @@
-
+- *The internet* is just the physical network of all the devices and computers connected to each other
+-  *The web* is the collection of information that is accessed through the internet
+- *Cyberspace* is (the combination of everything tech) a global domain within the information environment consisting of interdependent networks of information systems including the internet, telecommunications networks, computer systems, embedded processors and controllers.
+- *Cybersecurity* is defined as the prevention of damage to, protection of, and restoration of computers, networks, electronic communication, etc. Also known as the ability to protect or defend from cyber attacks
