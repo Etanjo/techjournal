@@ -14,3 +14,10 @@
 - *A risk matrix* is a visual that categorizes threats by both how likely they are and how bad it would be if they were to happen 
 - *Supply chain attacks* are attacks that are meant to slow down, stop, or increase costs of production.
 - *Spear phishing* is a type of phishing attack targeted at specific individuals or organizations rather than general phishing attempts
+
+**Week 3**
+- *OSINT* stands for open source intelligence, and refers to searching for information on public, open-source places that could be used for causing a potential harm (to a person or an organization)
+-  *Data Abstractions* are the different levels in which data is stored
+-  *HIPAA* refers to the laws surrounding the protections of people's healthcare information
+-  *CFAA* refers to the laws around misusing government information
+-  *Controls* are the different ways in which organizations can ensure the right people have access to the right things
