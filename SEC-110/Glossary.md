@@ -21,3 +21,14 @@
 -  *HIPAA* refers to the laws surrounding the protections of people's healthcare information
 -  *CFAA* refers to the laws around misusing government information
 -  *Controls* are the different ways in which organizations can ensure the right people have access to the right things
+
+**Week 4**
+- The *OSI Model* is a breakdown of how data is transferred between computers and networks
+- The *Physical Layer* is the first OSI layer, and it deals with the actual physical transmission of data — cables, wires, radio waves, and the hardware components of devices. Doesn't care about what the data is, just moves signals.
+- The *Data Link Layer* is the second OSI layer, and it handles how data gets sent between devices on the same network. Uses MAC addresses to identify devices.
+- The *Network Layer* is the third, and possibly most important layer, and it handles routing data between different networks using IP addresses.
+- The *Transport Layer* is the fourth layer, and it manages end-to-end communication between hosts.
+- The *Session Layer* is the fifth layer, and it controls the opening, closing, and security of communication channels between two devices
+- The *Presentation Layer* is the sixth layer, and it handles data formatting, security, and compression.
+- The *Application Layer* is the seventh layer, and it allows the software user and the network to interact directly.
+- The *TCP/IP model* is a network framework with multiple layers that explains how data is communicated between devices over a network using standardized protocols to ensure reliable and efficient transmission.
