@@ -32,3 +32,18 @@
 - The *Presentation Layer* is the sixth layer, and it handles data formatting, security, and compression.
 - The *Application Layer* is the seventh layer, and it allows the software user and the network to interact directly.
 - The *TCP/IP model* is a network framework with multiple layers that explains how data is communicated between devices over a network using standardized protocols to ensure reliable and efficient transmission.
+
+  **Week 5**
+  - *Ciphers* are codes that use the order of the alphabet to hide messages
+  - The *Atbash Cipher* reverses the alphabet, and then replaces letters in a message based on that reversed alphabet
+  - The *Caesar Cipher* replaces letters with the equivalent letter if it were to be shifted X letters up or down the alphabet
+  - *HTTP* stands for HyperText Transfer Protocol, and its a protocol that transfers website information to and form the server in plain text.
+  - *HTTPS* stands for HyperText Transfer Protocol Secure, and it transfers information encrypted with TLS/SSL as opposed to plain text.
+  - *Digital Certificates* are part of HTTPS, and they showcase that a website is secure. They are acquired by third party sources, and are made up of these sets of information:
+      - *The Site's Identity* stores the identifying information about the website, namely the URL and what organization it is apart of
+      - *The issuer (Certificate Authority)* is the party that gave the certificate to the webpage. This information mainly includes the name of the authority and the organization it is a part of.
+      - *The Validity period* stores when the certificate was issued and when it expires
+      - *The "Fingerprints" of the Certificate* stores the hashes of both the certificate and the public key
+      - *The Certificate Hierarchy* is the hierarchy of all of the certificate information. This stores more than the other main parts listed, but those main ones are easier to locate
+   
+    
