@@ -46,4 +46,15 @@
       - *The "Fingerprints" of the Certificate* stores the hashes of both the certificate and the public key
       - *The Certificate Hierarchy* is the hierarchy of all of the certificate information. This stores more than the other main parts listed, but those main ones are easier to locate
    
+  **Week 6**
+
+  **Week 7**
+ - Goals of Physical Security - The goals are to control who can get in and what they can do 
+ - Common Physical Security Threats - Insider threats (a risk from inside an organization), Social Engineering (tricking people into giving information), Malware, Man in the middle, and Denial of service
+ - IoT - Internet of things, using internet connected devices to control physical security
+ - Geofencing - Allowing access only when they’re in a specific location
+ - Least Privilege Principle - People should only be able to access what they need to for their jobs
+
+
+   
     
