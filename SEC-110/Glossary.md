@@ -47,6 +47,14 @@
       - *The Certificate Hierarchy* is the hierarchy of all of the certificate information. This stores more than the other main parts listed, but those main ones are easier to locate
    
   **Week 6**
+  - *Hash Functions* take messages of arbitrary length and turn them into data of fixed sizes, sometimes known as message digests
+  - A *Cryptographic Hash Function* is a hash function that is virtually impossible to reverse, and two messages will never have the same hash
+      - These are also extremely efficient
+      - They are pseudorandom, following an algorithm that is seemingly random but not truly random
+   - *SHA* stands for Secure Hash Algorithm, a hashing algorithm designed for cybersecurity
+   - *Salting* in cybersecurity is the practice of putting a random string of characters at the end of a password before hashing it, in order to make them harder to crack.
+   - *Rainbow tables* are password-cracking tools that use tables of precomputed hash values to crack password hashes. This is countered by salting
+   - *Steganography* is the practice of concealing information within another physical object or message (including embedding in images, masking in audio files, invisible ink, etc)
 
   **Week 7**
  - Goals of Physical Security - The goals are to control who can get in and what they can do 
